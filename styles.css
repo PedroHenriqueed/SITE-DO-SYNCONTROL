@@ -23,8 +23,16 @@ span{
 .link_header{
     font-family:"Roboto", sans-serif;
     text-decoration: none;
+    color: black;
+    font-size: 21px;
+    margin-left:1250px;
+}
+.link_header2{
+    margin-right: 15px;
+    font-family:"Roboto", sans-serif;
+    text-decoration: none;
     color: #662df9;
-    font-size: 20px;
+    font-size: 21px;
 }
 a{
     font-family:"Roboto", sans-serif;
