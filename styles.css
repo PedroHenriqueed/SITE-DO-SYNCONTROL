@@ -101,15 +101,17 @@ ul{
     font-weight: 500;
 }
 .img_container{
-    height: 800px;
+    height: 653px;
     background-size: cover;
     background:linear-gradient(#000000, #3634d3);
-    margin-left: 1050px;
-    margin-top: -537px;
-    width: 950px;
+    margin-left: 950px;
+    margin-top: -539px;
+    width: 584px;
 }
 img{
-    margin: 180px 110px 0;
+    margin-bottom:-455px; 
+    margin-left: 20px;
+    width: 530px;
 }
 button{
     font-family:"Roboto", sans-serif;
