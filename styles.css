@@ -36,13 +36,13 @@ span{
     color: #662df9;
     font-size: 16px;
 }
-a{
+a{  
     font-family:"Roboto", sans-serif;
     text-decoration: none;
     color:  #662df9;
-    margin-left:10px; 
+    margin-left:5px; 
     cursor: pointer;
-    font-size: 15px;  
+    font-size: 13px;  
 }
 a:hover{
     color: rgb(36, 35, 35);
@@ -95,10 +95,10 @@ ul{
     font-family:"Roboto", sans-serif;
     width: 800px;
     height: 0px;
-    font-size: 2.5rem;
+    font-size:30px;
     text-align: left;
-    margin: 250px 100px 0;
-    font-weight: 500;
+    margin: 220px 80px 0;
+    font-weight: 700;
 }
 .img_container{
     height: 653px;
@@ -125,7 +125,8 @@ button{
     color: white;
     font-size: 18px;
     font-weight:bold;
-    margin: 50px 100px 0;
+    margin-top: 60px;
+    margin-left: 71px;
     cursor: pointer;
     transition: bbackgroundack 0.5s;
 }
@@ -136,5 +137,6 @@ button:hover{
 p{
     font-family:"Roboto", sans-serif;
     color: rgb(113, 113, 113);
-    margin: 155px 100px 0 
+    margin: 85px 80px 0;
+    font-size: 13px;
 }
