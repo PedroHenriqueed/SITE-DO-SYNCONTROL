@@ -5,7 +5,7 @@
 }
 header{
     font-family: "Raleway", sans-serif;
-    padding: 20px 16px;
+    padding: 16px;
     align-items: center;
     cursor: pointer;
     display: flex;
@@ -14,7 +14,7 @@ header{
 }
 h2{
     font-weight: 700;
-    font-size: 28px;
+    font-size: 21px;
     margin-left: 15px;
 }
 span{
@@ -25,16 +25,16 @@ span{
     font-family:"Roboto", sans-serif;
     text-decoration: none;
     color: black;
-    font-size: 21px;
-    margin-left:1250px;
+    font-size: 16px;
+    margin-left:1000px;
 }
 .link_header2{
     font-weight: 400;
-    margin-right: 15px;
+    margin-right: 22px;
     font-family:"Roboto", sans-serif;
     text-decoration: none;
     color: #662df9;
-    font-size: 21px;
+    font-size: 16px;
 }
 a{
     font-family:"Roboto", sans-serif;
