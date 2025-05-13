@@ -123,9 +123,11 @@ button{
     font-weight:bold;
     margin: 50px 100px 0;
     cursor: pointer;
+    transition:background-color 0.5s;
 }
 button:hover{
     background-color: rgb(36, 35, 35);
+    ;
 }
 p{
     font-family:"Roboto", sans-serif;
