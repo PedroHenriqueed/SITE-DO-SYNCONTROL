@@ -13,6 +13,13 @@ header {
   justify-content: space-between;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+.link_header1{
+  margin-right: -750px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  font-size: 16px
+}
 .h2_header {
   color:black ;
   font-weight: 700;
@@ -22,33 +29,20 @@ header {
 span {
   color: #662df9;
 }
-.link_header {
+
+.link_header4 {
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
-  text-decoration: none;
-  color: black;
-  font-size: 16px;
-}
-.link_header2 {
-  font-weight: 400;
-  margin-right: 22px;
+  margin-right: 27px;
   font-family: "Roboto", sans-serif;
   text-decoration: none;
   color: #662df9;
   font-size: 16px;
 }
-.link_header3 {
-  font-weight: 400;
-  font-family: "Roboto", sans-serif;
-  text-decoration: none;
-  color: black;
-  font-size: 16px;
-  margin-left: 900px;
-}
+
 a {
   font-family: "Roboto", sans-serif;
   text-decoration: none;
-  color: #662df9;
+  color: black;
   margin-left: 5px;
   cursor: pointer;
   font-size: 13px;
@@ -110,12 +104,12 @@ ul {
   font-weight: 700;
 }
 .img_container {
-  height: 645px;
+  height: 644px;
   background-size: cover;
   background: linear-gradient(#000000, #3634d3);
-  margin-left: 950px;
+  margin-left: 956px;
   margin-top: -470px;
-  width: 571px;
+  width: 579px;
 }
 img {
   margin-bottom: -420px;
