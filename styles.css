@@ -27,7 +27,7 @@ header {
   color: black;
   font-weight: 700;
   font-size: 21px;
-  margin-left: 15px;
+  margin-left: 18px;
   margin-right: 700px;
 }
 span {
@@ -70,16 +70,18 @@ a:hover {
   font-family: "Roboto", sans-serif;
   background-color: #fefefe;
   margin: 15% auto;
-  padding: 20px;
+  padding: 33px;
   border: 1px solid #888;
   width: 80%;
-  height: 295px;
+  height: 325px;
   max-width: 600px;
   border-radius: 5px;
 }
 .h2_modal {
   margin-left: 55px;
   font-weight: 500;
+  color: #662df9;
+  font-weight: bold;
 }
 ul {
   list-style-type: none;
@@ -108,7 +110,7 @@ ul {
   font-weight: 700;
 }
 .img_container {
-  height: 644px;
+  height: 643px;
   background-size: cover;
   background: linear-gradient(#000000, #3634d3);
   margin-left: 956px;
